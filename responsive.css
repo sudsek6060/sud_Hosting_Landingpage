@@ -1,0 +1,188 @@
+@media screen and (min-width: 320px) and (max-width: 786px){
+    .list-item{
+        display: none;
+    }
+    
+    .logo{
+        margin-left: 20px;
+    }
+    .register button{
+        margin-left: -275px;
+    }
+    .host{
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+    .host-left{
+        margin-top: -75px;
+    }
+    .host-left h1{
+        text-align: center;
+        font-size: 30px;
+        width: 400px;
+        margin-left: -75px;
+    }
+    .host-left p{
+        text-align: center;
+        width: 375px;
+        font-size: 15px;
+        margin-left: -60px;
+    }
+    .host-right img{
+        width: 350px;
+        margin-left: -75px;
+    }
+    .cost{
+        display: flex;
+        flex-direction: column;
+    }
+    .cost-left img{
+        width: 400px;
+        margin-left: -50px;
+    }
+    .cost-right h2{
+        text-align: center;
+        font-size: 30px;
+        width: 450px;
+        margin-left: -175px;
+    }
+    .cost-right p{
+        text-align: center;
+        width: 400px;
+        font-size: 15px;
+        margin-left: -140px;
+    }
+    .support{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .support-right img{
+        width: 450px;
+        margin-left: -100px;
+    }
+    .support-left {
+        margin-top: -150px;
+    }
+    .support-left h3{
+        text-align: center;
+        font-size: 30px;
+        width: 450px;
+        margin-left: -100px;
+    }
+    .support-left p{
+        text-align: center;
+        width: 400px;
+        font-size: 15px;
+        margin-left: -75px;
+    }
+    .thor{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+    }
+    .thor h4{
+        text-align: center;
+        font-size: 30px;
+        width: 450px;
+        margin-left: -75px;
+    }
+    .thor p{
+        text-align: center;
+        width: 400px;
+        font-size: 15px;
+        margin-left: -50px;
+        margin-top: -30px;
+    }
+    .small{
+        display: grid;
+        grid-template-columns: 250px 250px ;
+        grid-template-rows: 300px 300px ;
+        margin-left: 55px;
+    }
+    .small-box{
+        width: 400px;
+    }
+    .small-box h5{
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .small-box p{
+        margin-top: -15px;
+        width: 37vw;
+        font-weight: 100;
+        text-align: center;
+        margin-left: -30px;
+    }
+    .price{
+        display: none;
+    }
+    .head-line{
+        display: flex;
+        flex-direction: column;
+    }
+    .head-line h2{
+        text-align: center;
+        font-size: 40px;
+        width: 400px;
+        margin-left: 25px;
+    }
+    .head-line p{
+        text-align: center;
+        width: 400px;
+        font-size: 15px;
+        margin-left: 25px;
+    }
+    .rectangle{
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .rectangle-box{
+        height: 30vh;
+        width: 70vw;
+        margin-top: 20px;
+    }
+    .special-box{
+        width: 70vw;
+    }
+    .service{
+        display: flex;
+        flex-direction: column;
+    }
+    .text{
+        width: 75vw;
+        color: #fff;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .text h2{
+        font-size: 20px;
+    }
+    .btn{
+        margin-top: -10px;
+        margin-left: 20px;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0px;
+    }
+    footer h2{
+        display: none;
+    }
+    .box-1 img{
+        width: 100px;
+    }
+    .box-1 p{
+        text-align: center;
+        width: 300px;
+        margin-left: -100px;
+        font-size: 18px;
+    }
+    .lists{
+        display: none;
+    }
+}
